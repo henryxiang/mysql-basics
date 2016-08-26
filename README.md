@@ -1,1 +1,2 @@
-# mysql-basics
+MySQL Basics
+------------
